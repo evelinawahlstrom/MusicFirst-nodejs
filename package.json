@@ -1,0 +1,26 @@
+{
+  "name": "musicfirst-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "consolidate": "^0.15.1",
+    "express": "^4.17.1",
+    "ejs": "^2.7.4",
+    "paypal-rest-sdk": "^1.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evelinawahlstrom/MusicFirst-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evelinawahlstrom/MusicFirst-nodejs/issues"
+  },
+  "homepage": "https://github.com/evelinawahlstrom/MusicFirst-nodejs#readme"
+}
