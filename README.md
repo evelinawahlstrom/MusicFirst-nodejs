@@ -31,7 +31,7 @@ Node.js, Express, Sequelize, ejs, PayPal payment system
 
 1. Clone the git repository
 
-` git clone https://github.com/evelinawahlstrom/MusicFirst-nodejs `
+``git clone https://github.com/evelinawahlstrom/MusicFirst-nodejs `
 
 2. cd into the folder MusicFirst-nodejs
 
@@ -52,9 +52,9 @@ node index.js
 ## Features working 
 
 ## My progress
-Read about my progress at the client repository **[MY PROGRESS](https://github.com/evelinawahlstrom/MusicFirst-reactNative#my-progress)**
+Read about my progress at the client repository **[HERE](https://github.com/evelinawahlstrom/MusicFirst-reactNative#my-progress)**
 
 ## To do
-Read about the TODO at the client repository **[TO DO](https://github.com/evelinawahlstrom/MusicFirst-reactNative#to-do)**
+Read about the TODO at the client repository **[HERE](https://github.com/evelinawahlstrom/MusicFirst-reactNative#to-do)**
 
 
