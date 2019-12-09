@@ -52,7 +52,9 @@ node index.js
 ## Features working 
 
 ## My progress
+Read about my progress at the client repository **[MY PROGRESS](https://github.com/evelinawahlstrom/MusicFirst-reactNative#my-progress)**
 
 ## To do
+Read about the TODO at the client repository **[TO DO](https://github.com/evelinawahlstrom/MusicFirst-reactNative#to-do)**
 
 
