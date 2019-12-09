@@ -1,7 +1,7 @@
 #  :iphone: MusicFirst - a React Native Mobile App :iphone:
 Node JS/Express/Ejs with PSP integration - Hackaton challenge as a trainee at Codaisseur showcasing my ability to learn something new in 2,5 days. <br/>
-**THIS IS THE SERVER.
-<br/> ** See **[related repositories](#related-repositories)** for the client side.
+**THIS IS THE SERVER.**
+<br/> See **[related repositories](#related-repositories)** for the client side.
  
 ## What this project is about:
 
