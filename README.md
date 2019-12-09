@@ -23,6 +23,7 @@ Read more about the project at the related frontend client repository **[HERE](h
 - **[To do](#to-do)**
 
 ## Technologies used
+Node.js, Express, Sequelize, ejs, PayPal payment system 
 
 ## How to install
 
