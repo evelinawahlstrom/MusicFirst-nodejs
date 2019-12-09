@@ -31,7 +31,7 @@ Node.js, Express, Sequelize, ejs, PayPal payment system
 
 1. Clone the git repository
 
-``git clone https://github.com/evelinawahlstrom/MusicFirst-nodejs `
+`` git clone https://github.com/evelinawahlstrom/MusicFirst-nodejs ``
 
 2. cd into the folder MusicFirst-nodejs
 
