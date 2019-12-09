@@ -15,7 +15,7 @@ Rules:
 Theme (randomly selected): :money_with_wings:
 
 ## Related repositories
-:books: Read about the project description at the related frontend client repository :books: **[HERE](https://github.com/evelinawahlstrom/MusicFirst-reactNative)**
+:books: Read about the project description at the related frontend client repository **[HERE](https://github.com/evelinawahlstrom/MusicFirst-reactNative)** :books:
 
 ## Table of contents:
 - **[Technologies used](#technologies-used)**
