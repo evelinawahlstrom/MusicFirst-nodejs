@@ -13,7 +13,7 @@ Rules:
 Theme (randomly selected): :money_with_wings:
 
 ## Related repositories
-Read more about the project at the relate frontend client repository **[HERE](https://github.com/evelinawahlstrom/MusicFirst-reactNative)**
+Read more about the project at the related frontend client repository **[HERE](https://github.com/evelinawahlstrom/MusicFirst-reactNative)**
 
 ## Table of contents:
 - **[Technologies used](#technologies-used)**
