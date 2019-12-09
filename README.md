@@ -29,6 +29,26 @@ Node.js, Express, Sequelize, ejs, PayPal payment system
 
 ## How to install
 
+1. Clone the git repository
+
+` git clone https://github.com/evelinawahlstrom/MusicFirst-nodejs `
+
+2. cd into the folder MusicFirst-nodejs
+
+3. To start the terminal with nodemon, use the following command (assumes nodemon is installed globally)
+
+```
+nodemon index.js
+```
+ 
+5. To start the code without tracking saved changes, you can simply run:
+
+```
+node index.js
+```
+
+**As a standard I'm using port 4000 for this server.**
+
 ## Features working 
 
 ## My progress
