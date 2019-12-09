@@ -20,7 +20,6 @@ Theme (randomly selected): :money_with_wings:
 ## Table of contents:
 - **[Technologies used](#technologies-used)**
 - **[How to install](#how-to-install)**
-- **[Features working](#features-working)**
 - **[My progress](#my-progress)**
 - **[To do](#to-do)**
 
@@ -48,8 +47,6 @@ node index.js
 ```
 
 **As a standard I'm using port 4000 for this server.**
-
-## Features working 
 
 ## My progress
 Read about my progress at the client repository **[HERE](https://github.com/evelinawahlstrom/MusicFirst-reactNative#my-progress)**
