@@ -12,4 +12,24 @@ Rules:
 
 Theme (randomly selected): :money_with_wings:
 
+## Related repositories
 Read more about the project at the relate frontend client repository **[HERE](https://github.com/evelinawahlstrom/MusicFirst-reactNative)**
+
+## Table of contents:
+- **[Technologies used](#technologies-used)**
+- **[How to install](#how-to-install)**
+- **[Features working](#features-working)**
+- **[My progress](#my-progress)**
+- **[To do](#to-do)**
+
+## Technologies used
+
+## How to install
+
+## Features working 
+
+## My progress
+
+## To do
+
+
