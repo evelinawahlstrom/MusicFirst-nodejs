@@ -37,13 +37,13 @@ Node.js, Express, Sequelize, ejs, PayPal payment system
 3. To start the terminal with nodemon, use the following command (assumes nodemon is installed globally)
 
 ```
-nodemon index.js
+nodemon App.js
 ```
  
 5. To start the code without tracking saved changes, you can simply run:
 
 ```
-node index.js
+node App.js
 ```
 
 **As a standard I'm using port 4000 for this server.**
